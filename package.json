@@ -2,7 +2,7 @@
   "name": "commit-helper",
   "version": "1.0.0",
   "description": "",
-  "main": "bin/index.js",
+  "main": "bin/cli.js",
   "bin": {
     "commit-helper": "bin/cli.js"
   },
