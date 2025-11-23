@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "bin/cli.js",
+  "type": "module",
   "bin": {
     "commit-helper": "bin/cli.js"
   },
@@ -13,6 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@inquirer/prompts": "^8.0.1",
     "commander": "^14.0.2",
     "inquirer": "^13.0.1",
     "simple-git": "^3.30.0"
