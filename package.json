@@ -1,6 +1,6 @@
 {
   "name": "@yoshiki-maruya/commit-helper",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "bin/cli.js",
   "type": "module",
