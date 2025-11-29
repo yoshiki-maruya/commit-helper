@@ -1,6 +1,6 @@
 {
   "name": "@yoshiki-maruya/commit-helper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "bin/cli.js",
   "type": "module",
@@ -24,5 +24,9 @@
     "@types/node": "^24.10.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoshiki-maruya/commit-helper.git"
   }
 }
